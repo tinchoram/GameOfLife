@@ -1,7 +1,7 @@
 ##################################
 # GameOfLife: v1.0
 # By: @Tinchoram
-# CodeSource: 
+# CodeSource: https://github.com/tinchoram/GameOfLife/blob/master/GameOfLife.py 
 # Source: @dotcsv https://www.youtube.com/watch?v=qPtKv9fSHZY  
 # Date: 2020-04-22
 ##################################
